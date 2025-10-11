@@ -19,9 +19,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3
                                   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkempalali&show_icons=true&theme=dark&locale=en&layout=compact" alt="gorkempalali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkempalali&show_icons=true&theme=dark&locale=en&layout=compact" alt="gorkempalali" br/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkempalali&show_icons=true&theme=dark&locale=en" alt="gorkempalali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkempalali&show_icons=true&theme=dark&locale=en" alt="gorkempalali" br/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkempalali&theme=dark" alt="gorkempalali" /></p>
 
