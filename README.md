@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Görkem Palalı</h1>
-
-- I’m actively developing **Full-stack web projects and Android applications**
+<h3 align="center"> - I’m actively developing **Full-stack web projects and Android applications**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
