@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Görkem Palalı</h1>
 
-- I graduated from Istanbul Aydın University with a bachelor’s degree in Software Engineering. Experienced in full-stack web development using .NET, Angular, React, JavaScript, HTML, CSS and mobile development using Kotlin with Jetpack Compose. I’ve worked closely with stakeholders to define requirements, guided development teams, and helped choose the right technologies for each project. I aim to build clean, scalable applications and to solve real-world problems through thoughtful design and efficient code. I learn quickly, adapt easily to new challenges, and value teamwork and continuous improvement in every stage of development.
 - I’m actively developing **Full-stack web projects and Android applications**
 
 ### Blogs posts
