@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Görkem Palalı</h1>
 <h3 align="center"> - I’m actively developing Full-stack web projects and Android applications
 
-### Blogs posts
+<h3 align="center">Blogs </h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
