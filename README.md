@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gorkempalali&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </div>
 
-<div align="left" style="display:block;">
+<div align="left" style="display:block; margin-bottom:5px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorkempalali&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
