@@ -41,16 +41,8 @@
   
 <h3 align="center">📊 GitHub Stats:</h3>
 
-<div align="center" style="display:block; margin-bottom: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkempalali&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center" style="display:block; margin-bottom: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorkempalali&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</div>
-
-<div align="center" style="display:block; margin-bottom:5px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorkempalali&theme=dark" alt="GitHub Streak Stats" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=gorkempalali&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gorkempalali&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkempalali&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
