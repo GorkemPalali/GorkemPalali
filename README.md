@@ -53,7 +53,7 @@ Focused on clean architecture, performance, and real-world product development.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gorkempalali&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=GorkemPalali&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemPalali&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
