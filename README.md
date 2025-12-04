@@ -40,11 +40,8 @@ Focused on clean architecture, performance, and real-world product development.
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
 </div>
 
