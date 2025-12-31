@@ -37,12 +37,4 @@ Focused on clean architecture, performance, and real-world product development.
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 
-
-</div>
-
-  <h3 align="center">📊 GitHub Stats:</h3>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GorkemPalali&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemPalali&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </div>
